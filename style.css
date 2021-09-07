@@ -24,7 +24,7 @@ body {
   padding: 15px 20px;
   margin-bottom: 20px;
 }
-
+/* cart items */
 .center-item {
   display: flex;
   align-items: center;
@@ -55,7 +55,7 @@ body {
   font-weight: 700;
   font-size: 20px;
 }
-
+/* input */
 .input-group {
   width: unset;
   flex-wrap: nowrap;
